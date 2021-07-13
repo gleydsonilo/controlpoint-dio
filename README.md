@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sistema de controle de ponto e acesso com Spring Boot
 
-API Rest para controle de ponto e acesso dos usuários, desenvolvida durante o bootcamp Santander Bootcamp | Fullstack Developer
+API Rest para controle de ponto e acesso dos usuários, desenvolvida durante o Santander Bootcamp | Fullstack Developer
 
 ### Tecnologias utilizadas:
 
